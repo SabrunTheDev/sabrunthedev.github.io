@@ -1,4 +1,3 @@
-# SabrunTheDev.github.io
+# sabrunthedev.github.io
 
 - Personal Portfolio Website
-# sabrunthedev.github.io
